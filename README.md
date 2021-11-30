@@ -36,3 +36,5 @@ if needed:
 
 
 ## Development
+
+7. Open scene: HoloRoom.unity in Assets/Scenes
