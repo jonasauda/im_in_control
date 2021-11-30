@@ -1,3 +1,11 @@
 # im_in_control
 
-This project uses VinteR to connect to remote locations and exchange data: https://github.com/jonasauda/VinteR
+
+
+
+
+## Deployment
+
+1. Deploy the VinteR infrastructure: https://github.com/jonasauda/VinteR
+
+2. Open the Unity Project
