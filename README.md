@@ -2,6 +2,10 @@
 
 ## Auda, Jonas; Busse, Leon; Pfeuffer, Ken; Gruenefeld, Uwe; Rivu, Radiah; Alt, Florian; Schneegass, Stefan
 
+## Status
+
+We started to bring this project online. If you have any questions, please do not hesitate to write us an email.
+
 ## Contact
 jonas.auda@uni-due.de
 
