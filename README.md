@@ -1,7 +1,5 @@
 # I’m in Control! Transferring Object Ownership Between Remote Users with Haptic Props in Virtual Reality
 
-# Understanding Drone Landing on the Human Body
-
 ## Auda, Jonas; Busse, Leon; Pfeuffer, Ken; Gruenefeld, Uwe; Rivu, Radiah; Alt, Florian; Schneegass, Stefan
 
 ## Contact
