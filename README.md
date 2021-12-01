@@ -45,3 +45,6 @@ tppubtype = {inproceedings}
 ## Development
 
 7. Open scene: HoloRoom.unity in Assets/Scenes
+
+## License
+MIT
