@@ -1,6 +1,6 @@
 # I’m in Control! Transferring Object Ownership Between Remote Users with Haptic Props in Virtual Reality
 
-## Jonas Auda, Leon Busse, Ken Pfeuffer, Uwe Gruenefeld, Radiah Rivu, Florian Alt, Stefan Schneegass
+Jonas Auda, Leon Busse, Ken Pfeuffer, Uwe Gruenefeld, Radiah Rivu, Florian Alt and Stefan Schneegass
 
 ## Status
 
