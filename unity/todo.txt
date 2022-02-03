@@ -1,0 +1,17 @@
+common
+    + multiple HMD support (more than 2)
+    - track physical objects (tables, objects)
+    - skeletons / hand tracking
+    - world interaction (grab, push, etc.)
+
+Leon
+    - get source code
+    - implement network adapter
+    - implement voice
+
+Bene
+    - design task
+    - agent representation (head tracking only, full skeletons)
+
+nice to have
+    - Oculus Go
