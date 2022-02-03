@@ -36,7 +36,7 @@ tppubtype = {inproceedings}
 
 1. Deploy the VinteR infrastructure: https://github.com/jonasauda/VinteR
 2. Install SteamVR (https://store.steampowered.com/app/250820/SteamVR/)
-3. Open the Unity Project (Unity Version: 2018.3.12, https://unity3d.com/get-unity/download/archive)
+3. Open the Unity Project
 
 5. If needed Oculus XR Plugin via the Unity Package Manager or via the Asset Store (if needed).
 6. If needed SteamVR Plugin (if needed, https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647).
