@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 using UnityEngine;
-//using Valve.Newtonsoft.Json;
+using Valve.Newtonsoft.Json;
 
 public class ConfigLoader
 {
