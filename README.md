@@ -16,7 +16,7 @@ https://youtu.be/FznSmSAtAiY
 ## Citation/BibTeX
 
 ```
-@inproceedings{auda2021m,
+@inproceedings{auda2021imincontrol,
 title = {I’m in Control! Transferring Object Ownership Between Remote Users with Haptic Props in Virtual Reality},
 author = {Jonas Auda and Leon Busse and Ken Pfeuffer and Uwe Gruenefeld and Radiah Rivu and Florian Alt and Stefan Schneegass},
 url = {https://dl.acm.org/doi/10.1145/3485279.3485287},
